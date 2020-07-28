@@ -67,7 +67,7 @@ Material:
     - _ClipRange: 1.04
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Displacement: -0.033762626
+    - _Displacement: -0.118383825
     - _DstBlend: 0
     - _FragDisplacement: 1
     - _GlossMapScale: 1
@@ -85,7 +85,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _ChannelFactor: {r: 0.11731899, g: 0.6611948, b: 0.22148624, a: 0}
+    - _ChannelFactor: {r: 0.54699236, g: 0.004927866, b: 0.4480798, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Range: {r: 0.72, g: -0.72, b: -9.11, a: 0.5}
